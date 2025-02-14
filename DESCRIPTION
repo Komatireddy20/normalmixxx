@@ -1,6 +1,6 @@
 Package: normalmix
 Type: Package
-Title: What the Package Does (Title Case)
+Title:  Functions for Normal Mixture Distributions
 Version: 0.1.0
 Authors@R: c(
     person(
@@ -9,9 +9,11 @@ Authors@R: c(
       role = c("aut", "cre")
     )
   )
-Description: More about what it does (maybe more than one line).
-    Continuation lines should be indented.
-License: What license is it under?
+Description:  This package provides functions to work with normal mixture distributions. 
+              It includes functions for computing the probability density function , 
+              cumulative distribution function , quantile function, and 
+              random sampling for a mixture of two normal distributions.
+License: Apache License 2.0
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.2
