@@ -4,7 +4,7 @@ Title:  Functions for Normal Mixture Distributions
 Version: 0.1.0
 Authors@R: c(
     person(
-      "sraya", "komatireddy",
+      "sravya", "komatireddy",
       email = "skomati1@kent.edu",
       role = c("aut", "cre")
     )
