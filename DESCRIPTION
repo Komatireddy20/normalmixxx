@@ -9,10 +9,10 @@ Authors@R: c(
       role = c("aut", "cre")
     )
   )
-Description:  This package provides functions to work with normal mixture distributions. 
-              It includes functions for computing the probability density function , 
-              cumulative distribution function , quantile function, and 
-              random sampling for a mixture of two normal distributions.
+Description:   This package provides functions to work with normal mixture distributions. 
+    It includes functions for computing the probability density function , 
+    cumulative distribution function , quantile function , and 
+    random sampling for a mixture of two normal distributions.
 License: Apache License 2.0
 Encoding: UTF-8
 LazyData: true
